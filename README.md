@@ -4,16 +4,27 @@
 To analyze and design a Student Online Exam Registration System using UML diagrams for managing student registration, exam application, fee payment, and hall ticket generation.
 # SRS (Procedure):
 1.Identify the requirements of the Online Exam Registration System.
+
 2.Define the actors involved in the system (Student, Admin, Exam Cell).
+
 3.Identify the functionalities such as login, exam registration, fee payment, and hall ticket download.
+
 4.Prepare the Software Requirement Specification (SRS) document.
+
 5.Design the Use Case Diagram to represent system functionalities.
+
 6.Create the Class Diagram to model system classes and relationships.
+
 7.Develop the Activity Diagram to show the exam registration workflow.
+
 8.Draw the Sequence Diagram to illustrate interactions between users and the system.
+
 9.Create the Communication (Collaboration) Diagram to represent object communication.
+
 10.Design the State Chart Diagram to show the states of exam registration.
+
 11.Verify and validate all UML diagrams.
+
 12.Document the complete system design.
 # DIAGRAMS:
 USE CASE DIAGRAM : 
